@@ -1,4 +1,4 @@
-# Multiple-linear-regression-Prj-3-50_startups-data.-
+# Multiple-linear-regression-
 
 **Objective:**
 
